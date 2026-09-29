@@ -1,0 +1,17 @@
+# Données sources — corpus de presse, non versionné (droits de réutilisation à vérifier)
+*.json
+data/raw/
+
+# NLTK cache
+nltk_data/
+
+# Environnements Python
+venv/
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
